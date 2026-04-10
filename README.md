@@ -21,12 +21,12 @@ Una herramienta profesional y ligera desarrollada en **Python** para la captura 
 ---
 
 ## 📋 Tabla de Contenidos
-1. [Características Principales](#-características-principales)
-2. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-3. [Instalación y Requisitos](#-instalación-y-requisitos)
-4. [Uso y Atajos](#-uso-y-atajos)
-5. [Compilación a Ejecutivo (.EXE)](#-compilación-a-ejecutivo-exe)
-6. [Notas Técnicas](#-notas-técnicas)
+1. [Características Principales](#características-principales)
+2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
+3. [Instalación y Requisitos](#instalación-y-requisitos)
+4. [Uso y Atajos](#uso-y-atajos)
+5. [Compilación a Ejecutivo (.EXE)](#compilación-a-ejecutivo-exe)
+6. [Notas Técnicas](#notas-técnicas)
 
 ---
 
