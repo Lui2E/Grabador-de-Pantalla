@@ -58,7 +58,7 @@ Una herramienta profesional y ligera desarrollada en **Python** para la captura 
 * Windows 10 o superior.
 * Python 3.10+ instalado.
 
-### Pasos
+## Pasos
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/TuUsuario/Grabador-de-Pantalla.git](https://github.com/TuUsuario/Grabador-de-Pantalla.git)
@@ -74,8 +74,8 @@ Una herramienta profesional y ligera desarrollada en **Python** para la captura 
    ```bash
    python app.py
    ```
-
-### Uso y Atajos
+---
+## Uso y Atajos
 1. **Selección:** Elige la resolución deseada en el menú desplegable.
 
 2. **Grabación:** Haz clic en el botón verde o presiona F9 para comenzar.
@@ -87,6 +87,7 @@ Una herramienta profesional y ligera desarrollada en **Python** para la captura 
   >[!IMPORTANT]
   >Para grabar ventanas de sistema o instaladores que requieren permisos, ejecuta el programa o VS Code como Administrador.
 
+---
 ## 📦 Compilación a Ejecutivo (.EXE)
 
 Si deseas generar una aplicación independiente que no requiera tener Python instalado, utiliza **PyInstaller**:
@@ -101,6 +102,7 @@ Si deseas generar una aplicación independiente que no requiera tener Python ins
 
 El ejecutable se generará en la carpeta /dist.
 
+---
 ## 📁 Estructura del Proyecto
 
       ├── src/
@@ -109,11 +111,12 @@ El ejecutable se generará en la carpeta /dist.
       ├── requirements.txt      # Dependencias del proyecto
       └── README.md             # Documentación
 
+---
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT. Para más detalles, ver el archivo LICENSE.
 
 Desarrollado por Luis Enrrique - IT Specialist
 
-
+---
    
